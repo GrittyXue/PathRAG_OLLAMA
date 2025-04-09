@@ -1,9 +1,5 @@
 The code for the paper **"PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths"**.
-## Install
-```bash
-cd PathRAG
-pip install -e .
-```
+
 ## Quick Start
 * You can quickly experience this project in the `v1_test.py` file.
 * Set OpenAI API key in environment if using OpenAI models: `api_key="sk-...".` in the `v1_test.py` and `llm.py` file
