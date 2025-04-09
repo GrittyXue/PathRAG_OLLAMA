@@ -1,5 +1,5 @@
 The code for the paper **"PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths"**.
-Original code source：https://github.com/BUPT-GAMMA/PathRAG
+## Original code source：https://github.com/BUPT-GAMMA/PathRAG
 ## Quick Start
 * You can quickly experience this project in the `ollama_demo.py` file.
 * Prepare your retrieval document "text.txt".
